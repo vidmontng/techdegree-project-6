@@ -7,9 +7,9 @@
             "project_name": "Data Pagination and Filtering",
             "description": "Using pagination to enhance the usability of a web page that displays student cards of any number of students. Implementing the solution to handle arrays of student data of various lengths",
             "technology": ["querySelector method", "creating new DOM elements", "template literals", "...."],
-            "live_link": "https://github.com/vidmontng/techdegree-project-2.git  (redo later)",
-            "github_link": "same that above",
-            "image_urls": "url (redo later)"
+            "live_link": "https://vidmontng.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/vidmontng/techdegree-project-2.git",
+            "image_urls": "./images/Data_Pagination_and_Filtering/"
 
         },
         {
@@ -17,9 +17,9 @@
             "project_name": "OOP Game Show App",
             "description": "A browser-based, word guessing game 'Phrase Hunter'",
             "technology": ["JavaScrip", "OOP", "...."],
-            "live_link": "https://github.com/vidmontng/techdegree-project-4.git  (redo later)",
-            "github_link": "same that above",
-            "image_urls": "url (redo later)"
+            "live_link": "https://vidmontng.github.io/techdegree-project-4/",
+            "github_link": "https://github.com/vidmontng/techdegree-project-4.git",
+            "image_urls": "./images/OOP_Game_Show_App/"
         }
         
     ]
